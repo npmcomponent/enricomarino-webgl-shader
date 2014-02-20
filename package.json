@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-webgl-shader",
+  "description": "WebGL Shader component",
+  "version": "0.1.0",
+  "keywords": [
+    "webgl",
+    "shader"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
